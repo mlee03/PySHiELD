@@ -30,7 +30,7 @@ extras_requires = {
 
 
 setup(
-    author="Vulcan Technologies LLC",
+    author="Vulcan Technologies LLC (change)",
     author_email="elynnw@vulcan.com",
     python_requires=">=3.8",
     classifiers=[
